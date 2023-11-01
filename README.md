@@ -1,2 +1,4 @@
-# reading-notes
-my reading journal for code fellows
+# My Reading Notes | CANVAS
+**my GITHUB profile**: https://github.com/mumirotol
+
+
